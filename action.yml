@@ -1,4 +1,6 @@
 name: Build Aurora website
+description: Build a website with the Aurora (https://github.com/capjamesg/aurora) static site generator.
+color: purple
 
 on:
   push:
